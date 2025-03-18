@@ -1,4 +1,4 @@
-﻿namespace Tuna_Piano.Models
+﻿﻿namespace Tuna_Piano.Models
 {
     public class Artist
     {
